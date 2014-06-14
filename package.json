@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "handle-error-during-request",
+  "version": "0.1.0",
+  "description": "Error handling component for use with fun-chain-dispatch",
+  "main": "index.js",
+  "author": {
+    "name" : "Myles Byrne",
+    "email" : "myles@devbootcamp.com"
+  }
+}
